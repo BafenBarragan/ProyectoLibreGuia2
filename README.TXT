@@ -1,8 +1,7 @@
 ------------------------------------------------------------------------------------------------------------------------------------------
 Este repositorio contiene los archivos del proyecto libre de la guía #2 del bloque de estudios de Construcción de Software. 
 El programa como tal tiene como objetivo servir como un "controlador" de presupuesto en el momento de realizar compras, de cualquier tipo
-(aunque fue pensado originalmente para compras en supermercados). A partir de un presupuesto 
-establecido por el usuario y de los productos que el mismo va ingresando, el programa se encarga de: 
+(aunque fue pensado originalmente para compras en supermercados). A partir de un presupuesto establecido por el usuario y de los productos que el mismo va ingresando, el programa se encarga de: 
 
 1. Llevar el control del presupuesto mediante un mensaje de alerta-confirmación. Alerta en la que se informa cuánto dinero queda del presupesto inicial a medida que se van adquiriendo productos y confirmación solicitada al usuario para seguir registrando productos. 
 
